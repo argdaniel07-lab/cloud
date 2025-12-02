@@ -1,7 +1,7 @@
 # Node.js DevOps Workshop
 
 ## 🚀 Instalación
-```bash
+```bash s
 npm install
 ```
 
